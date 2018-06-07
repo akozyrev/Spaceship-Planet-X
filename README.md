@@ -1,6 +1,6 @@
 # Spaceship-Planet-X
 A game that simulates space travel from Earth to a target planet on randomly generated maps with no known optimal path.
-Implemented using DFW walk and Dijkstra's Shortest Path algorithm in Java.
+Implemented using DFW walk and Dijkstra's Shortest Path algorithm in Java. Classes that I implemented are in the folder "student".
 
 Screenshot of the gameplay w/ a randomly generated map:
 <img width="1322" alt="screen shot 2018-06-07 at 1 53 56 pm" src="https://user-images.githubusercontent.com/7096526/41117211-5d850dc0-6a5a-11e8-8131-3f1839d3e24c.png">
